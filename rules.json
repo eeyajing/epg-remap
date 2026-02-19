@@ -1,11 +1,30 @@
 {
-  "source_epg_url": "把你的EPG链接填这里",
-  "keep_channel_ids": [
-    "CCTV-CCTV1",
-    "CCTV-CCTV2"
-  ],
+  "source_epg_url": "http://epg.51zmt.top:8000/e.xml",
   "rename_channel_id": {
-    "CCTV-CCTV1": "CCTV1",
-    "CCTV-CCTV2": "CCTV2"
+    "CCTV1": "CCTV1综合",
+    "CCTV2": "CCTV2财经",
+    "CCTV3": "CCTV3综艺",
+    "CCTV4": "CCTV4中文国际",
+    "CCTV5": "CCTV5体育",
+    "CCTV5+": "CCTV5+体育赛事",
+    "CCTV6": "CCTV6电影",
+    "CCTV7": "CCTV7国防军事",
+    "CCTV8": "CCTV8电视剧",
+    "CCTV9": "CCTV9纪录",
+    "CCTV10": "CCTV10科教",
+    "CCTV11": "CCTV11戏曲",
+    "CCTV12": "CCTV12社会与法",
+    "CCTV13": "CCTV13新闻",
+    "CCTV14": "CCTV14少儿",
+    "CCTV15": "CCTV15音乐",
+    "CCTV17": "CCTV17农业农村",
+    "CCTV4欧洲": "CCTV4欧洲",
+    "CCTV4美洲": "CCTV4美洲",
+    "CGTN外语纪录": "CGTN外语纪录",
+    "CGTN阿拉伯语": "CGTN阿拉伯语",
+    "CGTN西班牙语": "CGTN西班牙语",
+    "CGTN俄语": "CGTN俄语",
+    "CCTV2": "CCTV2财经",
+    
   }
 }
