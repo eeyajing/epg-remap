@@ -1,0 +1,11 @@
+{
+  "source_epg_url": "把你的EPG链接填这里",
+  "keep_channel_ids": [
+    "CCTV-CCTV1",
+    "CCTV-CCTV2"
+  ],
+  "rename_channel_id": {
+    "CCTV-CCTV1": "CCTV1",
+    "CCTV-CCTV2": "CCTV2"
+  }
+}
