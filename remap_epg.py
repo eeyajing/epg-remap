@@ -45,6 +45,7 @@ def main():
         ch.append(dn_new)
         added += 1
 
+    ET.indent(root, space="  ")
     ET.ElementTree(root).write(OUT_FILE, encoding="utf-8", xml_declaration=True)
     print(f"Generated {OUT_FILE}. display-name aliases added={added}")
 
