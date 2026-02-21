@@ -1,6 +1,6 @@
 {
   "source_epg_url": "http://epg.51zmt.top:8000/e.xml",
-  "add_display_name_alias": {
+  "map_display_name_to_new_id": {
     "CCTV1": "CCTV1综合",
     "CCTV2": "CCTV2财经",
     "CCTV3": "CCTV3综艺",
@@ -24,5 +24,6 @@
     "CGTN阿拉伯语": "CGTN阿拉伯语",
     "CGTN西班牙语": "CGTN西班牙语",
     "CGTN俄语": "CGTN俄语"
-  }
+  },
+  "also_append_display_name_alias": true
 }
