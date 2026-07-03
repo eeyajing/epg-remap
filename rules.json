@@ -27,9 +27,9 @@
     "CGTN阿拉伯语": "CGTN 阿拉伯语",
     "CGTN西班牙语": "CGTN 西班牙语",
     "CGTN俄语": "CGTN 俄语",
-    "风云剧场: "CCTV 风云剧场",
-    "第一剧场: "CCTV 第一剧场",
-    "怀旧剧场: "CCTV 怀旧剧场"
+    "风云剧场": "CCTV 风云剧场",
+    "第一剧场": "CCTV 第一剧场",
+    "怀旧剧场": "CCTV 怀旧剧场"
   },
   "also_append_display_name_alias": true
 }
